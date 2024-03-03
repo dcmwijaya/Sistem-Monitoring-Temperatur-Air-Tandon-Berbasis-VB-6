@@ -4,5 +4,5 @@
 ![Project](https://img.shields.io/badge/Project-Raspberry%20Pi%20Pico-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
 # Sistem-Monitoring-Temperatur-Air-Tandon-Berbasis-VB-6
-<strong>Solo Project: VB 6-based tandon water temperature monitoring system</strong><br><br>
+<strong>Solo Project: VB 6-based Tandon Water Temperature Monitoring System</strong><br><br>
 Coming Soon...

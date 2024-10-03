@@ -4,5 +4,4 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Sistem-Monitoring-Temperatur-Air-Tandon-Berbasis-VB-6
-<strong>Solo Project: VB 6-based Tandon Water Temperature Monitoring System</strong><br><br>
 Coming Soon...
